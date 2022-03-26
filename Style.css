@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    padding: 30px;
+    background-color: #34b230;
+    background-image: url('Kino.jpg');
+    text-align: center;
+    color: white;
+    font-size: 35px;
+
+
+}
+h3{
+    color: green;
+    text-align: right;
+}
+
+
+h6{
+    color:  white;
+    text-align: right;
+    margin-bottom: auto;
+    margin-bottom: auto;
+}
+a.tilelink
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 100;
+    height: 160;
+}
+
+a.sociallink
+{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+a.tilelinkhtml
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+
+}
+
+a.filmlink
+{
+    color: black;
+    text-decoration: none;
+    display: block;
+
+}
+
+footer {
+    clear: both;
+    flex: auto;
+    background-color:darkred;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+
+}
+nav {
+    float: left;
+    width: 15%;
+    height: 600px;
+    background-color: #2c2556;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    flex: auto;
+
+
+}
+
+
+article_1 {
+    float: left;
+    width: 35%;
+    height: 600px;
+    background-color: #a49f9f;
+    padding: 25px;
+    flex: auto;
+    text-align: justify;
+
+
+}
+
+article_2 {
+    float: left;
+    width: 50%;
+    height: 600px;
+    background-color: #a49f9f;
+    padding: 25px;
+    flex: auto;
+    text-align: justify;
+
+
+}
+
+aside
+{
+    float: left;
+    width: 85%;
+    height: 600px;
+    background-color: #a49f9f;
+    padding: 25px;
+    flex: auto;
+    text-align: justify;
+
+}
+
+label {
+    font-size: 15px;
+}
+
+input {
+    font-size: 10px;
+}
+
+
+
+
